@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\config",
+    "\\layout",
+    "\\locales",
+    "\\sections",
+    "\\snippets",
+    "\\src",
+    "\\templates",
+    "\\templates\\customers"
+  ],
+  "SelectedNode": "\\layout\\theme.liquid",
+  "PreviewInSolutionExplorer": false
+}
